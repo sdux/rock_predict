@@ -13,3 +13,9 @@ Compute elastic properties
 Cross plot
 Identify trends and clusters
 Classify based on elastic properties
+
+
+![Screenshot](well_log_classifications.jpg)
+
+![Screenshot](cluster_cross_plots.jpg)
+
